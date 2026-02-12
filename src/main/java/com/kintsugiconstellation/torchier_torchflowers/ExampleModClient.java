@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.kintsugiconstellation.torchier_torchflowers;
 
 import net.minecraft.client.Minecraft;
 import net.neoforged.api.distmarker.Dist;
