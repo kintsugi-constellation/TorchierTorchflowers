@@ -1,4 +1,4 @@
-package com.kintsugiconstellation.torchier_torchflowers.mixins;
+package com.kintsugiconstellation.torchier_torchflowers.mixin;
 
 import net.minecraft.world.level.block.Blocks;
 import org.spongepowered.asm.mixin.Mixin;
